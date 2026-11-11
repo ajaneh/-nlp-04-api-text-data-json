@@ -13,9 +13,11 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Alex Heyert
 
-Date: 2026 October
+Date: 2026 November
+
+TODO: Accurate Description
 
 Fourth project in the Web Mining and Applied NLP course.
 
@@ -35,17 +37,7 @@ The project is configured in
 
 ## Data
 
-The example retrieves JSON records from
-[JSONPlaceholder](https://jsonplaceholder.typicode.com/posts),
-a public demonstration API.
-
-Each record includes fields such as:
-
-- User identifier.
-- Post identifier.
-- Title.
-- Body text.
-
+TODO:
 The pipeline preserves the raw JSON data
 and produces a structured CSV dataset.
 
@@ -61,6 +53,7 @@ The pipeline has four stages:
 - **Transform** - select fields and calculate derived text features.
 - **Load** - save the processed data to a CSV file.
 
+TODO:
 The example uses Requests for HTTP acquisition
 and Polars for tabular data processing.
 
@@ -129,7 +122,7 @@ uv run python -m pytest
 
 ## Project Documentation
 
-The [hosted documentation site](https://denisecase.github.io/nlp-04-api-text-data/)
+The [hosted documentation site](https://ajaneh.github.io/nlp-04-api-text-data-json/)
 is published using Zensical and GitHub Pages.
 
 The documentation site is used to present the project report,

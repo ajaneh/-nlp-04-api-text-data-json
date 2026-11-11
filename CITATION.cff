@@ -15,13 +15,12 @@ title: Web Mining and Applied NLP 04 API and JSON Data
 date-released: "2026-03-24"
 
 authors:
-  - family-names: Case
-    given-names: Denise M.
-    orcid: "https://orcid.org/0000-0001-6165-7389"
+  - family-names: Heyert
+    given-names: Alexanndra J.
     affiliation: "Northwest Missouri State University, USA"
 
-repository-code: "https://github.com/denisecase/nlp-04-api-text-data"
-url: "https://github.com/denisecase/nlp-04-api-text-data"
+repository-code: "https://github.com/ajaneh/nlp-04-api-text-data-json"
+url: "https://github.com/ajaneh/nlp-04-api-text-data-json"
 license: MIT
 
 abstract: |
