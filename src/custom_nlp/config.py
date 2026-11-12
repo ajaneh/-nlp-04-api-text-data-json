@@ -1,6 +1,6 @@
 """config.py.
 
-(EDIT YOUR VERSION OF THIS FILE)
+Alex Heyert, November 2026.
 
 Purpose
 

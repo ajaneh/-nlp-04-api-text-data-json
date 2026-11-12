@@ -1,5 +1,7 @@
 """pipeline_api_json.py - Module 4 Script.
 
+Alex Heyert, November 2026.
+
 NO EDITS REQUIRED IN THIS FILE (if paths have not changed.)
 
 Purpose

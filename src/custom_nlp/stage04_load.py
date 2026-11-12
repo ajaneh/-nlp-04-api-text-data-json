@@ -1,5 +1,7 @@
 """stage04_load.py.
 
+Alex Heyert, November 2026.
+
 NO EDITS REQUIRED IN THIS FILE (if paths have not changed.)
 
 Source: DataFrame

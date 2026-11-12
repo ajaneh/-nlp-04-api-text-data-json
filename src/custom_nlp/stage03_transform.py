@@ -1,6 +1,6 @@
 """stage03_transform.py.
 
-(EDIT YOUR VERSION OF THIS FILE)
+Alex Heyert, November 2026.
 
 Source: validated JSON object
 Sink: Polars DataFrame

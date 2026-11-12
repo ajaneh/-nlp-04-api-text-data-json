@@ -1,6 +1,6 @@
 """stage02_validate.py.
 
-(EDIT YOUR VERSION OF THIS FILE)
+Alex Heyert, November 2026.
 
 Source: raw JSON object
 Sink: validated JSON object
